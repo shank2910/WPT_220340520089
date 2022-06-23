@@ -13,7 +13,7 @@ app.listen(900,()=>{
 let dbparams={
 	host:'localhost',
 	user:'root',
-	password:'cdac',
+	password:'root',
 	databsae:'WBT',
 	port:3306
 }
